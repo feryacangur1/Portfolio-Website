@@ -26,7 +26,7 @@ A clean and minimalist portfolio website template for developers.
 
 ## Preview
 
-![Portfolio Preview](preview.png)
+![Portfolio Preview](rev.png)
 
 ## Usage
 
